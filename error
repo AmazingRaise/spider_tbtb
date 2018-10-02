@@ -1,0 +1,80 @@
+Traceback (most recent call last):
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 44, in task_runner
+    ret = self.next_page(search_keyword)
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 151, in next_page
+    is_need_stop = self.get_info_into_table(html, keyword)
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 103, in get_info_into_table
+    for basic_info in result:
+TypeError: 'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 44, in task_runner
+    ret = self.next_page(search_keyword)
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 151, in next_page
+    is_need_stop = self.get_info_into_table(html, keyword)
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 103, in get_info_into_table
+    for basic_info in result:
+TypeError: 'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 44, in task_runner
+    ret = self.next_page(search_keyword)
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 151, in next_page
+    is_need_stop = self.get_info_into_table(html, keyword)
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 103, in get_info_into_table
+    for basic_info in result:
+TypeError: 'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 44, in task_runner
+    ret = self.next_page(search_keyword)
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 151, in next_page
+    is_need_stop = self.get_info_into_table(html, keyword)
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 103, in get_info_into_table
+    for basic_info in result:
+TypeError: 'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 44, in task_runner
+    ret = self.next_page(search_keyword)
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 151, in next_page
+    is_need_stop = self.get_info_into_table(html, keyword)
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 103, in get_info_into_table
+    for basic_info in result:
+TypeError: 'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 44, in task_runner
+    ret = self.next_page(search_keyword)
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 151, in next_page
+    is_need_stop = self.get_info_into_table(html, keyword)
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 103, in get_info_into_table
+    for basic_info in result:
+TypeError: 'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 44, in task_runner
+    ret = self.next_page(search_keyword)
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 151, in next_page
+    is_need_stop = self.get_info_into_table(html, keyword)
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 103, in get_info_into_table
+    for basic_info in result:
+TypeError: 'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 44, in task_runner
+    ret = self.next_page(search_keyword)
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 151, in next_page
+    is_need_stop = self.get_info_into_table(html, keyword)
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 103, in get_info_into_table
+    for basic_info in result:
+TypeError: 'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 44, in task_runner
+    ret = self.next_page(search_keyword)
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 151, in next_page
+    is_need_stop = self.get_info_into_table(html, keyword)
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 103, in get_info_into_table
+    for basic_info in result:
+TypeError: 'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 44, in task_runner
+    ret = self.next_page(search_keyword)
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 151, in next_page
+    is_need_stop = self.get_info_into_table(html, keyword)
+  File "/Users/ZMZ/PycharmProjects/taobao_spider/taobao_selenium/taobao_search.py", line 103, in get_info_into_table
+    for basic_info in result:
+TypeError: 'NoneType' object is not iterable

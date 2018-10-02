@@ -1,0 +1,4 @@
+requests
+openpyxl
+retry
+sqlite3
